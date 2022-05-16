@@ -9,12 +9,12 @@ The purpose of the analysis is to create a binary classifier that is capable of 
 ### Data Processing
 
 #### Target Variable
-![image_name]()
+![image_name](https://github.com/Mugunthan24/Neural_Network_Charity_Analysis/blob/main/Images/Data%20Processing/Target%20Variable.png)
 
 The target variable for the model is the "IS_SUCCESSFUL" column. It is a column that indicates if an organization was successful at obtaining funding.
 
 #### Feature Variable
-![image_name]()
+![image_name](https://github.com/Mugunthan24/Neural_Network_Charity_Analysis/blob/main/Images/Data%20Processing/Feature%20Variables.png)
 
 There are 10 feature variables in the final model. They are:
 - NAME
@@ -28,7 +28,7 @@ There are 10 feature variables in the final model. They are:
 - ASK_AMT
 
 #### Dropped Variable
-![image_name]()
+![image_name](https://github.com/Mugunthan24/Neural_Network_Charity_Analysis/blob/main/Images/Data%20Processing/Dropped%20Variable.png)
 
 The variable that was dropped in the final model was the "EIN" column. This column was just a unique identifier and would not be useful for discovering trends and patterns.
 
@@ -36,7 +36,7 @@ The variable that was dropped in the final model was the "EIN" column. This colu
 
 #### Neurons, Layers, and Activation Functions
 
-![image_name]()
+![image_name (https://github.com/Mugunthan24/Neural_Network_Charity_Analysis/blob/main/Images/Compiling%2C%20Training%2C%20and%20Evaluating%20the%20Model/Neural%20Network%20Summary.png)
 
 The final model has three hidden layers. Below is a description of each layer:
 
