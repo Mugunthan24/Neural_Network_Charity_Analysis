@@ -36,7 +36,7 @@ The variable that was dropped in the final model was the "EIN" column. This colu
 
 #### Neurons, Layers, and Activation Functions
 
-![image_name (https://github.com/Mugunthan24/Neural_Network_Charity_Analysis/blob/main/Images/Compiling%2C%20Training%2C%20and%20Evaluating%20the%20Model/Neural%20Network%20Summary.png)
+![image_name](https://github.com/Mugunthan24/Neural_Network_Charity_Analysis/blob/main/Images/Compiling%2C%20Training%2C%20and%20Evaluating%20the%20Model/Neural%20Network%20Summary.png)
 
 The final model has three hidden layers. Below is a description of each layer:
 
